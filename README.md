@@ -39,4 +39,8 @@
 
 https://texteditor231-2.herokuapp.com/ 
 
-## Scrennshots of application 
+## Scrennshots of application
+<img width="949" alt="textedit(2)" src="https://user-images.githubusercontent.com/114959233/223623382-fff7e1c6-130e-4659-8bf7-935135f9df07.png">
+<img width="901" alt="texteditor(2)" src="https://user-images.githubusercontent.com/114959233/223623407-b8492fe2-0854-451a-b093-ab45e4c7f997.png">
+
+ 

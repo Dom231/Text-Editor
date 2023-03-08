@@ -37,4 +37,6 @@
 
 ## Web-Deployment Link 
 
+https://texteditor231-2.herokuapp.com/ 
+
 ## Scrennshots of application 
